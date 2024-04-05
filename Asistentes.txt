@@ -1,0 +1,4 @@
+Taller de programacion,juan,14,100,Universidad x,1,0
+Taller de baile,Pedro,25,9999,Universidad x,1,0
+Conferencia de tecnologia,josejuan,21,9999,,0,0
+Taller de programacion,Maxi,1000,1,Universidad x,1,0

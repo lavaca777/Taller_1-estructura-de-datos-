@@ -1,0 +1,21 @@
+Taller de programacion,juan,14,100,Universidad x,1,0
+Taller de baile,Pedro,25,9999,Universidad x,1,0
+Conferencia de tecnologia,josejuan,21,9999,,0,0
+Taller de programacion,Maxi,33,1,Universidad x,1,0
+Maratón de lectura,Alexis,32,1000,,0,0
+Concierto de musica,Diego,23,9999,Universidad z,1,0
+Feria de ciencia,Inti,33,20,Universidad x,1,0
+Festival de cine,Javier,71,100,,0,0
+Feria de ciencia,Hector,47,40,Universidad x,0,1
+Concierto de musica,Arturo,34,1000,Universidad y,1,1
+Taller de baile,Maria,19,40,Universidad z,1,0
+Taller de programacion,Susana,22,100,Universidad y,1,0
+Conferencia de tecnologia,Erika,21,999,Universidad z,0,1
+Taller de programacion,Goku,33,0,,0,0
+Taller de baile,Vegeta,35,30,Universidad z,0,1
+Exposicion de arte,Carlos,20,100,Universidad x,1,0
+Exposicion de arte,Gema,26,1000,,0,0
+Exposicion de arte,Akira,69,100000000,Universidad z,0,1
+Festival de cine,Valentina,31,1000,Universidad y,1,1
+Maraton de lectura,Tomas,27,1111,Universidad y,1,1
+Concierto de musica,Andres,77,99999999,,0,0
